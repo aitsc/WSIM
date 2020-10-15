@@ -1,6 +1,6 @@
-Here are two directories (datasets): "First dataset" and "Second dataset".
-
 ## Data format
+
+For each dataset:
 
 ### reviewers/reviewerID.txt
 ...
